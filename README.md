@@ -1,4 +1,4 @@
-## Counter Api
+## Quote Reserver Api
 
 
 #### How to Run
@@ -8,4 +8,4 @@ $ go run main.go
 
 #### How to use
 
-POST request to localhost:8080/api/counter
+POST request to localhost:8080/api/quotes
